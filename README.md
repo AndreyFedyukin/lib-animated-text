@@ -4,7 +4,7 @@
 
 ### Шаблон для эффекта набора текста с анимацией
 
-Ссылка на сайт <https://andreyfedyukin.github.io/animated_text/>
+Ссылка на сайт <https://andreyfedyukin.github.io/lib-animated-text/>
 
 ---
 
